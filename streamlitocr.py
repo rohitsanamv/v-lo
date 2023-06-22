@@ -1,12 +1,3 @@
-from platform import python_branch
-
-
-!pip install paddlepaddle
-!pip install paddleocr
-!pip install streamlit
-!python -m pip install --upgrade pip
-!pip install opencv-python
-!pip install Pillow
 import streamlit as st
 import paddleocr
 import re
