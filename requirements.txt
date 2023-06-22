@@ -1,7 +1,7 @@
 streamlit==0.84.0
-paddlepaddle==2.1.2
-paddleocr==2.3.0
-opencv-python-headless==4.5.3.56
-numpy==1.21.0
-pandas==1.3.0
-Pillow==8.2.0
+paddlepaddle
+paddleocr
+opencv-python-headless
+numpy
+pandas
+Pillow
