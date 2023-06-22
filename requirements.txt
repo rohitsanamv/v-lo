@@ -1,7 +1,0 @@
-streamlit==0.84.0
-paddlepaddle
-paddleocr
-opencv-python-headless
-numpy
-pandas
-Pillow
