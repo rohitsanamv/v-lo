@@ -1,0 +1,9 @@
+streamlit
+paddleocr
+paddlepaddle
+regexp
+pandas
+opencv-python
+opencv-contrib-python
+numpy
+pillow
